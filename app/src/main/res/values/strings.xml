@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Superheroes</string>
+    <string name="network_error_message">Network error occurred.</string>
+    <string name="invalid_options_message">Some error occurred. Please try later.</string>
+    <string name="payment_id_label">Payment ID</string>
+    <string name="signature_label">Payment Signature</string>
+    <string name="order_id_label">Order ID</string>
+    <string name="success_message">Payment is successful</string>
+    <string name="alert_button_text">Start Over</string>
+</resources>
