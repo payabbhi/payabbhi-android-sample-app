@@ -1,8 +1,8 @@
 # Payabbhi Android Sample App
 
-This is a reference app for enabling Payments acceptance in your Android App using [Payabbhi Android SDK](https://payabbhi.com/docs/mobile-android).
+This is a reference app for enabling Payments acceptance in your Android App using [Payabbhi Android SDK](https://payabbhi.com/docs/mobile-checkout/android).
 
-For Integration guide, refer to [Mobile Checkout - Android](https://payabbhi.com/docs/mobile-android).
+For Integration guide, refer to [Mobile Checkout - Android](https://payabbhi.com/docs/mobile-checkout/android).
 
 ### Running the Sample app
 
