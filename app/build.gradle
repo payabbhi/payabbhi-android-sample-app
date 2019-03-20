@@ -19,5 +19,5 @@ android {
 }
 
 dependencies {
-    implementation 'com.payabbhi:payabbhi-android:1.0.5'
+    implementation 'com.payabbhi:payabbhi-android:1.0.6'
 }
