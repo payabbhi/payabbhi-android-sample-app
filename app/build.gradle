@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 26
-    buildToolsVersion '27.0.3'
+    buildToolsVersion '28.0.3'
     defaultConfig {
         applicationId "com.payabbhi.superheroes"
         minSdkVersion 19
@@ -19,5 +19,5 @@ android {
 }
 
 dependencies {
-    implementation 'com.payabbhi:payabbhi-android:1.0.6'
+    implementation 'com.payabbhi:payabbhi-android:1.0.7'
 }
